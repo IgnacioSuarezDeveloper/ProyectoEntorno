@@ -1,7 +1,12 @@
-#ProyectoEntorno
+##titulo
 
-##Descripcion
-"el proyecto no hace absolutamente nada porque esta vacio."
+##Descripción
 
-##Autor
-*Ignacio*
+##Tecnología 
+
+##Estructura
+
+##Como abrir el poryecto.
+
+##Autor.
+
